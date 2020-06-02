@@ -1,0 +1,22 @@
+body {
+  background-color: #D8D8D8;
+}
+
+.header {
+  background-color: #444444;
+  height: 20vh;
+}
+
+.content {
+  background-color: #EFEFEF;
+  height: 75vh;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.footer {
+  background-color: #222222;
+  height: 5vh;
+  margin: 0 auto;
+  width: 75%;
+}
