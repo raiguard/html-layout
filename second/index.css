@@ -1,0 +1,70 @@
+/* Containers */
+
+#solid-outline {
+  border: 5px solid black;
+  box-sizing: border-box;
+  /* height: 30vh; */
+  margin: 20px;
+  padding: 10px;
+}
+
+#dashed-outline {
+  border: 5px dotted black;
+  box-sizing: border-box;
+  margin: 20px;
+  padding: 10px;
+}
+
+#card {
+  border: 1px solid grey;
+  box-shadow: 4px 4px 5px darkgrey;
+  box-sizing: border-box;
+  margin: 25px auto;
+  padding: 100px;
+  width: 50%;
+}
+
+/* Objects */
+
+#purple-box {
+  background-color: blueviolet;
+  display: inline-block;
+  height: 150px;
+  margin-top: 50px;
+  width: 50px;
+}
+
+#green-box {
+  background-color: forestgreen;
+  display: inline-block;
+  height: 200px;
+  margin-left: 50px;
+  width: 400px;
+}
+
+#blue-circle {
+  background-color: skyblue;
+  border-radius: 50%;
+  display: inline-block;
+  height: 200px;
+  margin-left: 50px;
+  width: 200px;
+}
+
+#shadowed-box {
+  background-color: lemonchiffon;
+  box-sizing: border-box;
+  margin: 50px;
+  box-shadow: 10px 10px 5px black;
+  width: 90%vw;
+  height: 20vh;
+}
+
+#card-label {
+  color: darkblue;
+  text-align: center;
+  width: 100%;
+  font-size: 2em;
+  font-weight: 600;
+  letter-spacing: 10px;
+}
