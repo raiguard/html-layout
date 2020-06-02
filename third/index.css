@@ -1,0 +1,41 @@
+header {
+  background-color: lightgrey;
+  width: 100%;
+  padding: 10px;
+}
+
+.logo-box {
+  background-color: dodgerblue;
+  width: 100px;
+  height: 100px;
+}
+
+.demo-text {
+  box-sizing: border-box;
+  width: 100%;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  padding: 50px;
+}
+
+.row {
+  height: 150px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.row-1 {
+  background-color: dodgerblue;
+}
+
+.row-2 {
+  background-color: aquamarine;
+}
+
+.row-3 {
+  background-color: darkseagreen;
+}
+
+.row-4 {
+  background-color: gold;
+}
