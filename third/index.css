@@ -1,27 +1,29 @@
 header {
   background-color: lightgrey;
-  width: 100%;
+  box-sizing: border-box;
   padding: 10px;
+  width: 100%;
 }
 
 .logo-box {
   background-color: dodgerblue;
-  width: 100px;
+  box-sizing: border-box;
   height: 100px;
+  width: 100px;
 }
 
 .demo-text {
   box-sizing: border-box;
-  width: 100%;
   font-family: sans-serif;
   font-size: 1.5em;
   padding: 50px;
+  width: 100%;
 }
 
 .row {
+  box-sizing: border-box;
   height: 150px;
   width: 100%;
-  box-sizing: border-box;
 }
 
 .row-1 {
